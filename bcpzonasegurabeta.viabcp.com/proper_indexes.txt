@@ -1,0 +1,10 @@
+circles actives when click numbers *-> 1424
+numbers -> 1458
+btn -> 1614
+form -> 1362
+
+my css changes start -> 105
+
+
+
+"<div id='error_msg' class='ng-tns-c5-3 alert alert-error ng-trigger ng-trigger-alertAnimation'><button  class='close ng-tns-c5-3 ng-star-inserted' style=''><i class='icon-close-fill'></i></button><div class='alert-icon'><i class='ng-tns-c5-3 icon icon-check-outline alert-error-icon'></i></div> <div id='close_error' class='alert-content'><p class='ng-tns-c5-3'><i class='icon bcp-alert-f'></i><p><span class='font-weight-bold'> Los datos ingresados son incorrectos .</span> Por favor vuelva a intentarlo</p><i class='icon bcp-x-f'></i></p></div></div>"

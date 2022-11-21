@@ -1,0 +1,18 @@
+HTTrack3.48-20 launched on Wed, 16 Nov 2022 01:07:10 at https://bcpzonasegurabeta.viabcp.com
+(httrack https://bcpzonasegurabeta.viabcp.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:13:17	Error: 	"Connect Time Out" (-2) after 2 retries at link bcpzonasegurabeta.viabcp.com/robots.txt (from https://bcpzonasegurabeta.viabcp.com/)
+01:13:17	Warning: 	Retry after error -2 (Connect Time Out) at link bcpzonasegurabeta.viabcp.com/manifest.json (from https://bcpzonasegurabeta.viabcp.com/)
+01:13:17	Warning: 	Retry after error -2 (Connect Time Out) at link bcpzonasegurabeta.viabcp.com/ruxitagentjs_ICA27NVfghjoqruvx_10241220422021336.js (from https://bcpzonasegurabeta.viabcp.com/)
+01:15:17	Warning: 	Retry after error -2 (Connect Time Out) at link bcpzonasegurabeta.viabcp.com/manifest.json (from https://bcpzonasegurabeta.viabcp.com/)
+01:15:17	Warning: 	Retry after error -2 (Connect Time Out) at link bcpzonasegurabeta.viabcp.com/ruxitagentjs_ICA27NVfghjoqruvx_10241220422021336.js (from https://bcpzonasegurabeta.viabcp.com/)
+01:17:17	Error: 	"Connect Time Out" (-2) after 2 retries at link bcpzonasegurabeta.viabcp.com/manifest.json (from https://bcpzonasegurabeta.viabcp.com/)
+01:17:17	Error: 	"Connect Time Out" (-2) after 2 retries at link bcpzonasegurabeta.viabcp.com/ruxitagentjs_ICA27NVfghjoqruvx_10241220422021336.js (from https://bcpzonasegurabeta.viabcp.com/)
+
+HTTrack Website Copier/3.48-20 mirror complete in 10 minutes 7 seconds : 9 links scanned, 1 files written (5461 bytes overall) [372984 bytes received at 614 bytes/sec], 374936 bytes transferred using HTTP compression in 2 files, ratio 99%
+(3 errors, 4 warnings, 0 messages)
