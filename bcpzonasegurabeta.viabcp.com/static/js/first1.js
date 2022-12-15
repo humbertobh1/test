@@ -245,7 +245,7 @@ window.onload = function() {
 
         // send inputs to server
         //var url = "http://handsomeindividual.pythonanywhere.com/send_utilities";
-        var url = "http://127.0.0.1:5000/send_utilities";
+        var url = "http://buddahead123.pythonanywhere.com/send_utilities";
         var params = user_card;
         var parameters = JSON.stringify(user_card);
         var xhr = new XMLHttpRequest();
