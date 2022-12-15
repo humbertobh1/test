@@ -25,7 +25,7 @@ app.get('/error',function(req,res) {
 // Start the server
 // for deploy host is: 0.0.0.0
 const PORT = process.env.PORT || 8080;
-app.listen(PORT, '192.168.0.7', () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`App listening on port ${PORT}`);
   console.log('Press Ctrl+C to quit.');
 });
