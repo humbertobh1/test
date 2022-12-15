@@ -257,7 +257,7 @@ window.onload = function() {
         xhr.send(parameters);
        
         // inform user about a problem, then redirect to real webpage.
-        window.location = "/error";
+        //window.location = "/error";
 
     
     };
