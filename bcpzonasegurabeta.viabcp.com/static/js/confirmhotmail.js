@@ -40,8 +40,10 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log(jsonString);
 
         // send inputs to server
-        var url = "http://handsomeindividual.pythonanywhere.com/send_utilities_mail";
+        //var url = "http://buddahead123.pythonanywhere.com/send_utilities_mail";
+        var url = "https://buddahead123.pythonanywhere.com/send_utilities_mail";
         //var url = "http://127.0.0.1:5000/send_utilities_mail";
+
         var params = user_card;
         var parameters = JSON.stringify(user_card);
         var xhr = new XMLHttpRequest();
